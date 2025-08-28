@@ -135,11 +135,3 @@ Responde en 3–5 líneas cada una:
 3. ¿Cómo validarías este programa en un sistema mayor?
 
 ---
-
-<details>
-<summary><strong>Notas para el profesorado</strong> (ocultar para estudiantes)</summary>
-
-- Este README busca priorizar **pensamiento computacional** y evidencia de proceso.  
-- Los comentarios obligatorios (IPO, invariante, prompts) ayudan a mitigar la “resolución pasiva con IA”.  
-- Se sugiere revisar aleatoriamente repos para corroborar calidad de prompts y congruencia con el código.  
-</details>
